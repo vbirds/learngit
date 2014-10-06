@@ -3,4 +3,4 @@ Git is free software
 Git is good.
 I love Giit.
 
-Grea changes.
+rea changes.
