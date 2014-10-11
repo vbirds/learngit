@@ -8,4 +8,5 @@ creating a new branch is quick.
 
 i had created a branch which names vit.
 
-CREATING a new baranch is quick & simple.
+CREATING a new branch is quick and simple.
+
